@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "0.1.0",
+  "description": "calculator",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonjjjc/calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "javascript"
+  ],
+  "author": "jason chalangary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonjjjc/calculator/issues"
+  },
+  "homepage": "https://github.com/jasonjjjc/calculator#readme"
+}
